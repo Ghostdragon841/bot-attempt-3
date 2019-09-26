@@ -1,0 +1,8 @@
+{
+“name”: “Tabitha”,
+“version”: “1.0.0”,
+“description”: “Discord Bot”,
+“main”: “bot.js”,
+“author”: “avery”,
+“dependencies”: {}
+}
